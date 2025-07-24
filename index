@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aniket Anand </title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Aniket Anand</h1>
+        <p>Student|Computer science and Technology|Dayanand sagar University</p>
+
+        <div class="section">
+            <h2>About Me</h2>
+            <p>I am currently a Student in Computer Science at Dayananda Sagar University.</p>
+        </div>
+
+        <div class="section">
+            <h2>Links</h2>
+            <ul>
+                <li><a href="aniket2005anand@gmail.com">Email</a></li>
+                <li><a href="www.linkedin.com/in/aniket-anand-5a7735329" target="_blank">LinkedIn</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
